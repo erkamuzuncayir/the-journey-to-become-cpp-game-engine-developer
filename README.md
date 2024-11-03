@@ -34,7 +34,6 @@ To document my journey in mastering C/C++ for game and engine development by bui
 **Technologies Used:** Unity, C#</br>
 **Status:** Ongoing</br>
 This project is a turn-based 2D game developed in Unity using C#. It aims to create a maintainable, extensible, and clean codebase while learning low-level game development using C/C++ and OpenGL. Additionally, it provides an opportunity to showcase my skills in C# and Unity, as well as to gain experience by publishing a game and observing the post-launch process.
-**Technologies Used:** Unity, C#
 
 ### 📚 Learning Resources
 
@@ -100,4 +99,4 @@ I welcome suggestions for resources, projects, or improvements to this repositor
 ---
 
 ## 📫 Contact
-You can reach me via [e-mail](erkamuzuncayir@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/erkamuzuncayir/).
+You can reach me via [e-mail](mailto:erkamuzuncayir@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/erkamuzuncayir/).
