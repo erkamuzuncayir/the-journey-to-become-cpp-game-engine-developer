@@ -49,7 +49,7 @@ This project is a turn-based 2D game developed in Unity using C#. It aims to cre
 - [x] 3. Multiple Coordinate Spaces 
 - [x] 4. Introduction to Matrices 
 - [x] 5. Matrices and Linear Transformations 
-- [ ] 6. More on Matrices 
+- [x] 6. More on Matrices 
 - [ ] 7. Polar Coordinate Systems 
 - [ ] 8. Rotation in Three Dimensions 
 - [ ] 9. Geometric Primitives 
