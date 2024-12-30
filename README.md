@@ -69,7 +69,7 @@ This project is a turn-based 2D game developed in Unity using C#. It aims to cre
 - [x] 2. Bits, Data Types, and Operations
 - [x] 3. Digital Logic Structures
 - [x] 4. The von Neumann Model
-- [ ] 5. The LC-3
+- [x] 5. The LC-3
 - [ ] 6. Programming
 - [ ] 7. Assembly Language
 - [ ] 8. Data Structures
