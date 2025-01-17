@@ -83,7 +83,7 @@ This project is a turn-based 2D game developed in Unity using C#. It aims to cre
 - [x] 10. A Calculator
 - [x] 11. Introduction to C/C++ Programming
 - [x] 12. Variables and Operators
-- [ ] 13. Control Structures
+- [x] 13. Control Structures
 - [ ] 14. Functions
 - [ ] 15. Testing and Debugging
 - [ ] 16. Pointers and Arrays
