@@ -16,6 +16,15 @@ To document my journey in mastering C/C++ for game and engine development by bui
 
 ---
 
+## Logs
+
+### 2025-01-24
+
+1. I decided to read Computer Systems: A Programmer's Perspective after reading and finishing The C Programming Language, because I thought I would need a relatively good knowledge of C programming to do the exercises in it, and the authors of Computer Systems: A Programmer's Perspective also recommends The C Programming Language for learning C programming.
+2. Also, while I am currently working on a project called *Hex Survivor*, I wanted to take the time to learn only one subject in depth. The subject I decided to learn in depth for now is computer systems and low level programming. So I decided to stop reading the *3D Math Primer for Graphics and Game Development* for now and continue reading it after I finished reading *Computer Systems: A Programmer's Perspective*.
+
+---
+
 ## 🔜 TODO
 
 ### 📝 Projects
@@ -24,7 +33,7 @@ To document my journey in mastering C/C++ for game and engine development by bui
 
 ### 📚 Learning Resources
 
-- [ ] [Computer Systems: A Programmer’s Perspective](https://www.goodreads.com/book/show/25403633-computer-systems)
+- [ ] [Computer Systems: A Programmer’s Perspective](https://www.goodreads.com/book/show/25403633-computer-systems) by Randal E. Bryant and David O'Hallaron
 
 ---
 
@@ -40,63 +49,64 @@ This project is a turn-based 2D game developed in Unity using C#. It aims to cre
 
 ### 📚 Learning Resources
 
-#### [3D Math Primer for Graphics and Game Development](https://gamemath.com)
+#### [The C Programming Language](https://www.goodreads.com/book/show/515601.The_C_Programming_Language) by Brian W. Kernighan and Dennis M. Ritchie
 
-**Start Date:** 2024-09-20</br>
+**Start Date:** 2025-01-24</br>
 **Status:** Ongoing</br>
-**Repo:** -
+**Repo:** [My Solutions of The C Programming Language](https://github.com/erkamuzuncayir/the-c-programming-language)
 
 ##### Chapters
 
-- [x] 1. Cartesian Coordinate Systems
-- [x] 2. Vectors
-- [x] 3. Multiple Coordinate Spaces
-- [x] 4. Introduction to Matrices
-- [x] 5. Matrices and Linear Transformations
-- [x] 6. More on Matrices
-- [x] 7. Polar Coordinate Systems
-- [ ] 8. Rotation in Three Dimensions
-- [ ] 9. Geometric Primitives
-- [ ] 10. Mathematical Topics from 3D Graphics
-- [ ] 11. Mechanics 1: Linear Kinematics and Calculus
-- [ ] 12. Mechanics 2: Linear and Rotational Dynamics
-- [ ] 13. Curves in 3D
-- [ ] 14. Afterword
-
-#### [Introduction to Computing Systems: From Bits & Gates to C/C++ & Beyond](https://www.mheducation.com/highered/product/introduction-computing-systems-bits-gates-c-c-beyond-patt-patel/M9781260150537.html)
-
-**Start Date:** 2024-10-12</br>
-**Status:** Ongoing</br>
-**Repo:** [My Solutions of Introduction to Computing Systems](https://github.com/erkamuzuncayir/solutions-of-introduction-to-computing-systems)
-
-##### Chapters
-
-- [x] 1. Welcome Aboard
-- [x] 2. Bits, Data Types, and Operations
-- [x] 3. Digital Logic Structures
-- [x] 4. The von Neumann Model
-- [x] 5. The LC-3
-- [x] 6. Programming
-- [x] 7. Assembly Language
-- [x] 8. Data Structures
-- [x] 9. I/O
-- [x] 10. A Calculator
-- [x] 11. Introduction to C/C++ Programming
-- [x] 12. Variables and Operators
-- [x] 13. Control Structures
-- [x] 14. Functions
-- [x] 15. Testing and Debugging
-- [x] 16. Pointers and Arrays
-- [x] 17. Recursion
-- [x] 18. I/O in C
-- [x] 19. Dynamic Data Structures in C
-- [ ] 20. Introduction to C++
+- [ ] 1. A Tutorial Introduction
+- [ ] 2. Types, Operators, and Expressions
+- [ ] 3. Control Flow
+- [ ] 4. Functions and Program Structure
+- [ ] 5. Pointers and Arrays
+- [ ] 6. Structures
+- [ ] 7. Input and Output
+- [ ] 8. The UNIX System Interface 
 
 ---
 
 ## ✔️ Done
 
-There isn't anything here. But I guess there will be something in a near future 👀.
+### 📚 Learning Resources
+
+#### [Introduction to Computing Systems: From Bits & Gates to C/C++ & Beyond](https://www.mheducation.com/highered/product/introduction-computing-systems-bits-gates-c-c-beyond-patt-patel/M9781260150537.html)
+
+**Start Date:** 2024-10-12</br>
+**End Date:** 2025-01-24</br>
+**Completion Time:** ~150 Hours</br>
+**Status:** Done</br>
+**Repo:** [My Solutions of Introduction to Computing Systems](https://github.com/erkamuzuncayir/solutions-of-introduction-to-computing-systems)
+
+##### My Takeaways from Introduction to Computing Systems: From Bits & Gates to C/C++ & Beyond
+
+###### 1. Understanding the Big Picture
+This book excels in showing the connection between the lowest-level hardware components and high-level programming languages, bridging the gap in a way that's both engaging and thorough. However, it’s important to note that the C and C++ lessons provided in the book are not sufficient to master these languages on their own. They serve more as a foundation for understanding how these languages operate closer to the hardware.
+
+###### 2. Assembly Language and Low-Level Programming
+Writing assembly was genuinely challenging, yet immensely rewarding. It provided a unique opportunity to see how things work at the most fundamental level, giving me a deeper understanding of how code gets executed by the CPU. Tasks such as managing memory manually, handling registers, and writing loops or conditionals in assembly helped me truly grasp concepts like bitwise operations, recursion, and iteration, and how these abstractions actually function under the hood. Seeing the advantages and disadvantages of these concepts from a low-level perspective was invaluable.
+
+###### 3. Memory Systems and Emergence of Complexity
+The book effectively demonstrates how simple and small components, like logic gates, come together to form complex systems—this concept, often referred to as emergence, was incredibly eye-opening. It’s fascinating to see how individual bits and operations combine to create something as versatile as a programming language or even a full-fledged operating system. It reminded me of how non-living atoms form living organisms.
+
+###### 4. Problem-Solving and Practical Learning
+The book does an excellent job of teaching fundamental programming concepts, such as recursion, iteration, and data manipulation, while also showing how and why these concepts work. By requiring readers to write them at the assembly level, it provides an appreciation for their elegance and power. Additionally, the step-by-step progression from simple circuits to complete systems effectively illustrates the incremental problem-solving approach required for tackling complex challenges.
+
+###### 5. Programming Perspectives
+What I particularly liked is how the book reframes the way you think about programming:
+
+  - It’s no longer just about "writing code," but understanding why certain design choices are made and how they impact the underlying hardware.
+  - Although the book isn’t intended for this purpose, it made me wish it included more real-world examples of programming design trade-offs and how these decisions manifest in low-level advantages or disadvantages. Such an addition would have tied its low-level explanations more explicitly to everyday programming challenges.
+
+###### 6. Challenges and Growth
+The steep learning curve—especially while writing in assembly—was both frustrating and rewarding. The challenge paid off by giving me a clearer understanding of the low-level operations and their connections to higher-level abstractions. Even though assembly was tough, the experience was invaluable and felt like a rite of passage for anyone interested in understanding computers at their core.
+
+###### 7. Future Applications
+This book has laid a strong foundation for my journey in game and engine development with C/C++. Many of the concepts I learned, such as memory management and low-level programming, are directly applicable to building efficient and performant systems. Understanding how abstractions are built on top of hardware processes will help me make more informed decisions when working with tools like OpenGL or Vulkan.
+
+In conclusion, Introduction to Computing Systems is an excellent resource for anyone who wants to dive deep into computer systems and see how they function from the ground up. While the C and C++ lessons are not enough to fully learn the languages, the perspective this book provides will forever change how you approach programming and problem-solving. I highly recommend it, especially if you’re passionate about understanding the inner workings of computers and want to become a more deliberate programmer.
 
 ---
 
