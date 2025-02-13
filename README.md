@@ -61,7 +61,7 @@ This project is a turn-based 2D game developed in Unity using C#. It aims to cre
 - [x] 2. Types, Operators, and Expressions
 - [x] 3. Control Flow
 - [x] 4. Functions and Program Structure
-- [ ] 5. Pointers and Arrays
+- [x] 5. Pointers and Arrays
 - [ ] 6. Structures
 - [ ] 7. Input and Output
 - [ ] 8. The UNIX System Interface 
