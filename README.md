@@ -18,6 +18,10 @@ To document my journey in mastering C/C++ for game and engine development by bui
 
 ## Logs
 
+### 2025-02-13
+
+1. While studying *The C Programming Language by Kernighan and Ritchie*, I realized that the book is more of a documentation of C itself rather than a teaching guide for beginners. Although I learned some valuable things, I didn’t feel like my overall familiarity with C improved significantly. Additionally, I found the exercises quite challenging, especially in the last three chapters. Therefore, I’ve decided not to continue with the remaining chapters and instead start C Programming: A Modern Approach by K. N. King, as I’ve heard it's better suited for learning C in a more comprehensive and beginner-friendly manner. My goal is to complete this book to solidify my understanding of C before moving on to more advanced topics.
+
 ### 2025-01-24
 
 1. I decided to read Computer Systems: A Programmer's Perspective after reading and finishing The C Programming Language, because I thought I would need a relatively good knowledge of C programming to do the exercises in it, and the authors of Computer Systems: A Programmer's Perspective also recommends The C Programming Language for learning C programming.
@@ -49,22 +53,41 @@ This project is a turn-based 2D game developed in Unity using C#. It aims to cre
 
 ### 📚 Learning Resources
 
-#### [The C Programming Language](https://www.goodreads.com/book/show/515601.The_C_Programming_Language) by Brian W. Kernighan and Dennis M. Ritchie
+#### [C Programming: A Modern Approach](http://knking.com/books/c2/) by K. N. King.
 
-**Start Date:** 2025-01-24</br>
+**Start Date:** 2025-02-13</br>
 **Status:** Ongoing</br>
-**Repo:** [My Solutions of The C Programming Language](https://github.com/erkamuzuncayir/the-c-programming-language)
+**Repo:** [My Solutions to the C Programming: A Modern Approach](https://github.com/erkamuzuncayir/c-programming-a-modern-approach)
 
 ##### Chapters
 
-- [x] 1. A Tutorial Introduction
-- [x] 2. Types, Operators, and Expressions
-- [x] 3. Control Flow
-- [x] 4. Functions and Program Structure
-- [x] 5. Pointers and Arrays
-- [ ] 6. Structures
-- [ ] 7. Input and Output
-- [ ] 8. The UNIX System Interface 
+- [ ] 1. Introducing C
+- [ ] 2. C Fundamentals
+- [ ] 3. Formatted Input/Output
+- [ ] 4. Expressions
+- [ ] 5. Selection Statements
+- [ ] 6. Loops
+- [ ] 7. Basic Types
+- [ ] 8. Arrays
+- [ ] 9. Functions
+- [ ] 10. Program Organization
+- [ ] 11. Pointers
+- [ ] 12. Pointers and Arrays
+- [ ] 13. Strings
+- [ ] 14. The Preprocessor
+- [ ] 15. Writing Large Programs
+- [ ] 16. Structures, Unions, and Enumerations
+- [ ] 17. Advanced Uses of Pointers
+- [ ] 18. Declarations
+- [ ] 19. Program Design
+- [ ] 20. Low-Level Programming
+- [ ] 21. The Standard Library
+- [ ] 22. Input/Output
+- [ ] 23. Library Support for Numbers and Character Data
+- [ ] 24. Error Handling
+- [ ] 25. International Features
+- [ ] 26. Miscellaneous Library Functions
+- [ ] 27. Additional C99 Support for Mathematics
 
 ---
 
@@ -107,6 +130,27 @@ The steep learning curve—especially while writing in assembly—was both frust
 This book has laid a strong foundation for my journey in game and engine development with C/C++. Many of the concepts I learned, such as memory management and low-level programming, are directly applicable to building efficient and performant systems. Understanding how abstractions are built on top of hardware processes will help me make more informed decisions when working with tools like OpenGL or Vulkan.
 
 In conclusion, Introduction to Computing Systems is an excellent resource for anyone who wants to dive deep into computer systems and see how they function from the ground up. While the C and C++ lessons are not enough to fully learn the languages, the perspective this book provides will forever change how you approach programming and problem-solving. I highly recommend it, especially if you’re passionate about understanding the inner workings of computers and want to become a more deliberate programmer.
+
+---
+
+## 🛑 Hold / Cancel
+
+### 📚 Learning Resources
+
+#### [The C Programming Language](https://www.goodreads.com/book/show/515601.The_C_Programming_Language) by Brian W. Kernighan and Dennis M. Ritchie
+
+**Start Date:** 2025-01-24</br>
+**Hold Date:** 2025-02-13</br>
+**Status:** Hold</br>
+**Progression:** 65%</br>
+**Study Time:** ~50 Hours</br>
+**Repo:** [My Solutions of The C Programming Language](https://github.com/erkamuzuncayir/the-c-programming-language)
+
+##### Why hold?
+
+While studying The C Programming Language by Kernighan and Ritchie, I realized that the book is more of a documentation of C itself rather than a teaching guide for beginners. Although I learned some valuable things, I didn’t feel like my overall familiarity with C improved significantly. Additionally, I found the exercises quite challenging, especially in the last three chapters.
+
+Therefore, I’ve decided not to continue with the remaining chapters and instead start C Programming: A Modern Approach by K. N. King, as I’ve heard it's better suited for learning C in a more comprehensive and beginner-friendly manner. My goal is to complete this book to solidify my understanding of C before moving on to more advanced topics.
 
 ---
 
