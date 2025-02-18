@@ -63,8 +63,8 @@ This project is a turn-based 2D game developed in Unity using C#. It aims to cre
 
 - [x] 1. Introducing C
 - [x] 2. C Fundamentals
-- [ ] 3. Formatted Input/Output
-- [ ] 4. Expressions
+- [x] 3. Formatted Input/Output
+- [x] 4. Expressions
 - [ ] 5. Selection Statements
 - [ ] 6. Loops
 - [ ] 7. Basic Types
