@@ -67,7 +67,7 @@ This project is a turn-based 2D game developed in Unity using C#. It aims to cre
 - [x] 4. Expressions
 - [x] 5. Selection Statements
 - [x] 6. Loops
-- [ ] 7. Basic Types
+- [x] 7. Basic Types
 - [ ] 8. Arrays
 - [ ] 9. Functions
 - [ ] 10. Program Organization
