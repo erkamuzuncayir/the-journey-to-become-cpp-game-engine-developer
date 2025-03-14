@@ -73,7 +73,7 @@ This project is a turn-based 2D game developed in Unity using C#. It aims to cre
 - [x] 10. Program Organization
 - [x] 11. Pointers
 - [x] 12. Pointers and Arrays
-- [ ] 13. Strings
+- [x] 13. Strings
 - [ ] 14. The Preprocessor
 - [ ] 15. Writing Large Programs
 - [ ] 16. Structures, Unions, and Enumerations
