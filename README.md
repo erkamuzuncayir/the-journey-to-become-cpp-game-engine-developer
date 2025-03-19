@@ -77,7 +77,7 @@ This project is a turn-based 2D game developed in Unity using C#. It aims to cre
 - [x] 14. The Preprocessor
 - [x] 15. Writing Large Programs
 - [x] 16. Structures, Unions, and Enumerations
-- [ ] 17. Advanced Uses of Pointers
+- [x] 17. Advanced Uses of Pointers
 - [ ] 18. Declarations
 - [ ] 19. Program Design
 - [ ] 20. Low-Level Programming
