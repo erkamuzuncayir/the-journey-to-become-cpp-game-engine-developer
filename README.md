@@ -83,7 +83,7 @@ This project is a turn-based 2D game developed in Unity using C#. It aims to cre
 - [x] 20. Low-Level Programming
 - [x] 21. The Standard Library
 - [x] 22. Input/Output
-- [ ] 23. Library Support for Numbers and Character Data
+- [x] 23. Library Support for Numbers and Character Data
 - [ ] 24. Error Handling
 - [ ] 25. International Features
 - [ ] 26. Miscellaneous Library Functions
