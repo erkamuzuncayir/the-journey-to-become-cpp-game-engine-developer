@@ -37,7 +37,7 @@ To document my journey in mastering C/C++ for game and engine development by bui
 
 ### 📚 Learning Resources
 
-- [ ] [Computer Systems: A Programmer’s Perspective](https://www.goodreads.com/book/show/25403633-computer-systems) by Randal E. Bryant and David O'Hallaron
+- [ ] [LearnOpenGL](https://learnopengl.com/)
 
 ---
 
@@ -53,41 +53,58 @@ This project is a turn-based 2D game developed in Unity using C#. It aims to cre
 
 ### 📚 Learning Resources
 
-#### [C Programming: A Modern Approach](http://knking.com/books/c2/) by K. N. King.
+#### 1. [Computer Systems: A Programmer's Perspective, Third Edition](https://csapp.cs.cmu.edu/) by Randal E. Bryant and David R. O'Hallaron.
 
-**Start Date:** 2025-02-13</br>
+**Start Date:** 2025-03-28</br>
 **Status:** Ongoing</br>
-**Repo:** [My Solutions to the C Programming: A Modern Approach](https://github.com/erkamuzuncayir/c-programming-a-modern-approach)
+**Repo:** [My Solutions to the Computer Systems: A Programmer's Perspective, Third Edition](https://github.com/erkamuzuncayir/computer-systems-a-programmers-perspective)
 
 ##### Chapters
 
-- [x] 1. Introducing C
-- [x] 2. C Fundamentals
-- [x] 3. Formatted Input/Output
-- [x] 4. Expressions
-- [x] 5. Selection Statements
-- [x] 6. Loops
-- [x] 7. Basic Types
-- [x] 8. Arrays
-- [x] 9. Functions
-- [x] 10. Program Organization
-- [x] 11. Pointers
-- [x] 12. Pointers and Arrays
-- [x] 13. Strings
-- [x] 14. The Preprocessor
-- [x] 15. Writing Large Programs
-- [x] 16. Structures, Unions, and Enumerations
-- [x] 17. Advanced Uses of Pointers
-- [x] 18. Declarations
-- [x] 19. Program Design
-- [x] 20. Low-Level Programming
-- [x] 21. The Standard Library
-- [x] 22. Input/Output
-- [x] 23. Library Support for Numbers and Character Data
-- [ ] 24. Error Handling
-- [ ] 25. International Features
-- [ ] 26. Miscellaneous Library Functions
-- [ ] 27. Additional C99 Support for Mathematics
+- [ ] 1. A Tour of Computer Systems
+- [ ] 2. Representing and Manipulating Information
+- [ ] 3. Machine-Level Representation of Programs
+- [ ] 4. Processor Architecture
+- [ ] 5. Optimizing Program Performance
+- [ ] 6. The Memory Hierarchy
+- [ ] 7. Linking
+- [ ] 8. Exceptional Control Flow
+- [ ] 9. Virtual Memory
+- [ ] 10. System-Level I/O
+- [ ] 11. Network Programming
+- [ ] 12. Concurrent Programming
+
+---
+
+#### 2. [Programming: Principles and Practice Using C++, Third Edition](https://www.stroustrup.com/programming.html) by Bjarne Stroustrup.
+
+**Start Date:** 2025-03-28</br>
+**Status:** Ongoing</br>
+**Repo:** [My Solutions to the Programming: Principles and Practice Using C++, Third Edition](https://github.com/erkamuzuncayir/programming-principles-and-practice-using-cpp/)
+
+##### Chapters
+
+- [ ] 1. Hello, World!
+- [ ] 2. Objects, Types, and Values
+- [ ] 3 Computation
+- [ ] 4. Errors!
+- [ ] 5. Writing a Program
+- [ ] 6. Completing a Program
+- [ ] 7. Technicalities: Functions, etc.
+- [ ] 8. Technicalities: Classes, etc.
+- [ ] 9. Input and Output Streams
+- [ ] 10. A Display Model
+- [ ] 11. Graphics Classes
+- [ ] 12. Class Design
+- [ ] 13. Graphing Functions and Data
+- [ ] 14. Graphical User Interfaces
+- [ ] 15. Vector and Free Store
+- [ ] 16. Arrays, Pointers, and References
+- [ ] 17. Essential Operations
+- [ ] 18. Templates and Exceptions
+- [ ] 19. Containers and Iterators
+- [ ] 20. Maps and Sets
+- [ ] 21. Algorithms
 
 ---
 
@@ -95,7 +112,27 @@ This project is a turn-based 2D game developed in Unity using C#. It aims to cre
 
 ### 📚 Learning Resources
 
-#### [Introduction to Computing Systems: From Bits & Gates to C/C++ & Beyond](https://www.mheducation.com/highered/product/introduction-computing-systems-bits-gates-c-c-beyond-patt-patel/M9781260150537.html)
+> Descending order
+
+#### 2. [C Programming: A Modern Approach](http://knking.com/books/c2/) by K. N. King.
+
+**Start Date:** 2025-02-13</br>
+**End Date:** 2025-03-28</br>
+**Completion Time:** ~120 Hours</br>
+**Status:** Done</br>
+**Repo:** [My Solutions to the C Programming: A Modern Approach](https://github.com/erkamuzuncayir/c-programming-a-modern-approach)
+
+##### My Takeaways from C Programming: A Modern Approach in a Nutshell
+
+This is the second book I’ve read to learn C by solving problems. I first tried *The C Programming Language* by Brian W. Kernighan and Dennis M. Ritchie because this book is considered the go-to for all things C. However, when I reached the middle of the book, I realized that, as someone still unfamiliar with C, I wasn't able to learn much from it. 
+
+When I started reading *C Programming: A Modern Approach*, I realized that *The C Programming Language* was not designed to teach me C. It’s simply a reference book, whereas *C Programming: A Modern Approach* is an excellent textbook. With its detailed explanations, exercises, programming projects, and especially the Q&A section, which offers a level of detail I haven't seen in other textbooks, it covers all the essential details of C, a language that is both simple and powerful, and addresses everything it believes to be important. 
+
+I’m glad I switched to this book instead of continuing with *The C Programming Language*. I **highly** recommend this book to anyone wanting to learn the C programming language.
+
+---
+
+#### 1. [Introduction to Computing Systems: From Bits & Gates to C/C++ & Beyond](https://www.mheducation.com/highered/product/introduction-computing-systems-bits-gates-c-c-beyond-patt-patel/M9781260150537.html)
 
 **Start Date:** 2024-10-12</br>
 **End Date:** 2025-01-24</br>
