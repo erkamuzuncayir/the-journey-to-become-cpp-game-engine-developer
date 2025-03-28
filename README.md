@@ -61,7 +61,7 @@ This project is a turn-based 2D game developed in Unity using C#. It aims to cre
 
 ##### Chapters
 
-- [ ] 1. A Tour of Computer Systems
+- [x] 1. A Tour of Computer Systems
 - [ ] 2. Representing and Manipulating Information
 - [ ] 3. Machine-Level Representation of Programs
 - [ ] 4. Processor Architecture
