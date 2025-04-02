@@ -76,35 +76,33 @@ This project is a turn-based 2D game developed in Unity using C#. It aims to cre
 
 ---
 
-#### 2. [Programming: Principles and Practice Using C++, Third Edition](https://www.stroustrup.com/programming.html) by Bjarne Stroustrup.
+#### 2. [C++ Primer, 5th Edition](https://cpp-primer.pages.dev/) by Stanley B. Lippman.
 
-**Start Date:** 2025-03-28</br>
+**Start Date:** 2025-04-02</br>
 **Status:** Ongoing</br>
-**Repo:** [My Solutions to the Programming: Principles and Practice Using C++, Third Edition](https://github.com/erkamuzuncayir/programming-principles-and-practice-using-cpp/)
+**Repo:** [My Solutions to the C++ Primer, 5th Edition](https://github.com/erkamuzuncayir/cpp-primer)
 
 ##### Chapters
 
-- [ ] 1. Hello, World!
-- [ ] 2. Objects, Types, and Values
-- [ ] 3 Computation
-- [ ] 4. Errors!
-- [ ] 5. Writing a Program
-- [ ] 6. Completing a Program
-- [ ] 7. Technicalities: Functions, etc.
-- [ ] 8. Technicalities: Classes, etc.
-- [ ] 9. Input and Output Streams
-- [ ] 10. A Display Model
-- [ ] 11. Graphics Classes
-- [ ] 12. Class Design
-- [ ] 13. Graphing Functions and Data
-- [ ] 14. Graphical User Interfaces
-- [ ] 15. Vector and Free Store
-- [ ] 16. Arrays, Pointers, and References
-- [ ] 17. Essential Operations
-- [ ] 18. Templates and Exceptions
-- [ ] 19. Containers and Iterators
-- [ ] 20. Maps and Sets
-- [ ] 21. Algorithms
+- [ ] 1. Getting Started
+- [ ] 2. Variables and Basic Types
+- [ ] 3. Strings, Vectors, and Arrays
+- [ ] 4. Expressions
+- [ ] 5. Statements
+- [ ] 6. Functions
+- [ ] 7. Classes
+- [ ] 8. The IO Library
+- [ ] 9. Sequential Containers
+- [ ] 10. Generic Algorithms
+- [ ] 11. Associative Containers
+- [ ] 12. Dynamic Memory
+- [ ] 13. Copy Control
+- [ ] 14. Overloaded Operations and Conversions
+- [ ] 15. Object-Oriented Programming
+- [ ] 16. Templates and Generic Programming
+- [ ] 17. Specialized Library Facilities
+- [ ] 18. Tools for Large Programs
+- [ ] 19. Specialized Tools and Techniques
 
 ---
 
