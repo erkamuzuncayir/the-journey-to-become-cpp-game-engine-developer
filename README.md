@@ -86,7 +86,7 @@ This project is a turn-based 2D game developed in Unity using C#. It aims to cre
 
 - [x] 1. Getting Started
 - [x] 2. Variables and Basic Types
-- [ ] 3. Strings, Vectors, and Arrays
+- [x] 3. Strings, Vectors, and Arrays
 - [ ] 4. Expressions
 - [ ] 5. Statements
 - [ ] 6. Functions
