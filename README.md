@@ -90,7 +90,7 @@ This project is a turn-based 2D game developed in Unity using C#. It aims to cre
 - [x] 4. Expressions
 - [x] 5. Statements
 - [x] 6. Functions
-- [ ] 7. Classes
+- [x] 7. Classes
 - [ ] 8. The IO Library
 - [ ] 9. Sequential Containers
 - [ ] 10. Generic Algorithms
