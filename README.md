@@ -92,7 +92,7 @@ This project is a turn-based 2D game developed in Unity using C#. It aims to cre
 - [x] 6. Functions
 - [x] 7. Classes
 - [x] 8. The IO Library
-- [ ] 9. Sequential Containers
+- [x] 9. Sequential Containers
 - [ ] 10. Generic Algorithms
 - [ ] 11. Associative Containers
 - [ ] 12. Dynamic Memory
