@@ -25,7 +25,7 @@ To document my journey in mastering C/C++ for game and engine development by bui
 ### 2025-01-24
 
 1. I decided to read Computer Systems: A Programmer's Perspective after reading and finishing The C Programming Language, because I thought I would need a relatively good knowledge of C programming to do the exercises in it, and the authors of Computer Systems: A Programmer's Perspective also recommends The C Programming Language for learning C programming.
-2. Also, while I am currently working on a project called *Hex Survivor*, I wanted to take the time to learn only one subject in depth. The subject I decided to learn in depth for now is computer systems and low level programming. So I decided to stop reading the *3D Math Primer for Graphics and Game Development* for now and continue reading it after I finished reading *Computer Systems: A Programmer's Perspective*.
+2. Also, while I am currently working on a project called *Gate Survivors*, I wanted to take the time to learn only one subject in depth. The subject I decided to learn in depth for now is computer systems and low level programming. So I decided to stop reading the *3D Math Primer for Graphics and Game Development* for now and continue reading it after I finished reading *Computer Systems: A Programmer's Perspective*.
 
 ---
 
@@ -33,11 +33,11 @@ To document my journey in mastering C/C++ for game and engine development by bui
 
 ### 📝 Projects
 
-- [ ] Simple 2D C/C++ OpenGL Game
+- [ ] Simple 3D DirectX Game Engine
 
 ### 📚 Learning Resources
 
-- [ ] [LearnOpenGL](https://learnopengl.com/)
+- [ ] [Real-Time 3D Rendering with DirectX® and HLSL](https://www.oreilly.com/library/view/real-time-3d-rendering/9780133570120/)
 
 ---
 
@@ -45,11 +45,11 @@ To document my journey in mastering C/C++ for game and engine development by bui
 
 ### 📝 Projects
 
-#### Hex Survivor</br>
+#### Gate Survivors</br>
 
-**Technologies Used:** Unity, C#</br>
+**Technologies Used:** Unity, C#, HLSL, ECS</br>
 **Status:** Ongoing</br>
-This project is a turn-based 2D game developed in Unity using C#. It aims to create a maintainable, extensible, and clean codebase while learning low-level game development using C/C++ and OpenGL. Additionally, it provides an opportunity to showcase my skills in C# and Unity, as well as to gain experience by publishing a game and observing the post-launch process.
+This is a game built on the Unity game engine that I know, using an entity component system that I wrote myself. Thanks to this system, physics calculations, rendering and animation calculations of a very large number of entities can be done efficiently and quickly. Also, this project gives me the opportunity to showcase my skills in C# and Unity and gain experience by publishing a game and observing the post-launch process.
 
 ### 📚 Learning Resources
 
