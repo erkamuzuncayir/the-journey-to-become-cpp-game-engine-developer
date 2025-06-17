@@ -96,7 +96,7 @@ This is a game built on the Unity game engine that I know, using an entity compo
 - [x] 10. Generic Algorithms
 - [x] 11. Associative Containers
 - [x] 12. Dynamic Memory
-- [ ] 13. Copy Control
+- [x] 13. Copy Control
 - [ ] 14. Overloaded Operations and Conversions
 - [ ] 15. Object-Oriented Programming
 - [ ] 16. Templates and Generic Programming
