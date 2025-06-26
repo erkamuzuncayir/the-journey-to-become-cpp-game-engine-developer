@@ -101,7 +101,7 @@ This is a game built on the Unity game engine that I know, using an entity compo
 - [x] 15. Object-Oriented Programming
 - [x] 16. Templates and Generic Programming
 - [x] 17. Specialized Library Facilities
-- [ ] 18. Tools for Large Programs
+- [x] 18. Tools for Large Programs
 - [ ] 19. Specialized Tools and Techniques
 
 ---
