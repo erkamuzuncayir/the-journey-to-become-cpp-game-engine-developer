@@ -18,6 +18,10 @@ To document my journey in mastering C/C++ for game and engine development by bui
 
 ## Logs
 
+### 2025-06-27
+
+1. I removed the start date attribute of *Computer Systems: A Programmer's Perspective* and set it to 2nd priority from learning resources, because it doesn't make sense right now to try to read this book binge studying. I need to develop projects to make what is explained in the book more meaningful for me. On the other hand, I don't want to put the book on hold, so I think I will continue little by little as I have time from other learning resources and projects I have developed.
+
 ### 2025-02-13
 
 1. While studying *The C Programming Language by Kernighan and Ritchie*, I realized that the book is more of a documentation of C itself rather than a teaching guide for beginners. Although I learned some valuable things, I didn’t feel like my overall familiarity with C improved significantly. Additionally, I found the exercises quite challenging, especially in the last three chapters. Therefore, I’ve decided not to continue with the remaining chapters and instead start C Programming: A Modern Approach by K. N. King, as I’ve heard it's better suited for learning C in a more comprehensive and beginner-friendly manner. My goal is to complete this book to solidify my understanding of C before moving on to more advanced topics.
@@ -53,11 +57,10 @@ This is a game built on the Unity game engine that I know, using an entity compo
 
 ### 📚 Learning Resources
 
-#### 1. [Computer Systems: A Programmer's Perspective, Third Edition](https://csapp.cs.cmu.edu/) by Randal E. Bryant and David R. O'Hallaron.
+#### 2. [Computer Systems: A Programmer's Perspective, Third Edition](https://csapp.cs.cmu.edu/) by Randal E. Bryant and David R. O'Hallaron.
 
-**Start Date:** 2025-03-28</br>
 **Status:** Ongoing</br>
-**Repo:** [My Solutions to the Computer Systems: A Programmer's Perspective, Third Edition](https://github.com/erkamuzuncayir/computer-systems-a-programmers-perspective)
+**Repo  :** [My Solutions to the Computer Systems: A Programmer's Perspective, Third Edition](https://github.com/erkamuzuncayir/computer-systems-a-programmers-perspective)
 
 ##### Chapters
 
@@ -163,7 +166,7 @@ In conclusion, Introduction to Computing Systems is an excellent resource for an
 
 ### 📚 Learning Resources
 
-#### [The C Programming Language](https://www.goodreads.com/book/show/515601.The_C_Programming_Language) by Brian W. Kernighan and Dennis M. Ritchie
+1. #### [The C Programming Language](https://www.goodreads.com/book/show/515601.The_C_Programming_Language) by Brian W. Kernighan and Dennis M. Ritchie
 
 **Start Date:** 2025-01-24</br>
 **Hold Date:** 2025-02-13</br>
