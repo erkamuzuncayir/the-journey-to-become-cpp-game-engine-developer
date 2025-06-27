@@ -20,7 +20,7 @@ To document my journey in mastering C/C++ for game and engine development by bui
 
 ### 2025-06-27
 
-1. I removed the start date attribute of *Computer Systems: A Programmer's Perspective* and set it to 2nd priority from learning resources, because it doesn't make sense right now to try to read this book binge studying. I need to develop projects to make what is explained in the book more meaningful for me. On the other hand, I don't want to put the book on hold, so I think I will continue little by little as I have time from other learning resources and projects I have developed.
+1. I removed the start date attribute of *Computer Systems: A Programmer's Perspective* and set it to 3rd priority from learning resources, because it doesn't make sense right now to try to read this book binge studying. I need to develop projects to make what is explained in the book more meaningful for me. On the other hand, I don't want to put the book on hold, so I think I will continue little by little as I have time from other learning resources and projects I have developed.
 
 ### 2025-02-13
 
@@ -37,7 +37,7 @@ To document my journey in mastering C/C++ for game and engine development by bui
 
 ### 📝 Projects
 
-- [ ] Simple 3D DirectX Game Engine
+- [ ] 3D DirectX Game
 
 ### 📚 Learning Resources
 
@@ -49,6 +49,12 @@ To document my journey in mastering C/C++ for game and engine development by bui
 
 ### 📝 Projects
 
+#### 🐦‍🔥 Primordial Game Engine
+
+**Technologies Used:** C, C++</br>
+**Status:** Ongoing</br>
+This is a 3D game engine that I plan to implement using all the knowledge I have learned. This is the project I will do the most work on over time. This explanation will be elaborated.
+
 #### Gate Survivors</br>
 
 **Technologies Used:** Unity, C#, HLSL, ECS</br>
@@ -57,9 +63,58 @@ This is a game built on the Unity game engine that I know, using an entity compo
 
 ### 📚 Learning Resources
 
-#### 2. [Computer Systems: A Programmer's Perspective, Third Edition](https://csapp.cs.cmu.edu/) by Randal E. Bryant and David R. O'Hallaron.
+#### 1. [3D Math Primer for Graphics and Game Development](https://gamemath.com/) by Fletcher Dunn
 
+**Start Date:** 2025-06-27</br>
 **Status:** Ongoing</br>
+**Repo  :** [The repository for the game engine I plan to create using this math library](https://github.com/erkamuzuncayir/primordial/)
+
+##### Chapters
+
+- [ ] 1. Cartesian Coordinate Systems 
+- [ ] 2. Vectors 
+- [ ] 3. Multiple Coordinate Spaces 
+- [ ] 4. Introduction to Matrices 
+- [ ] 5. Matrices and Linear Transformations 
+- [ ] 6. More on Matrices 
+- [ ] 7. Polar Coordinate Systems 
+- [ ] 8. Rotation in Three Dimensions 
+- [ ] 9. Geometric Primitives 
+- [ ] 10. Mathematical Topics from 3D Graphics 
+- [ ] 11. Mechanics 1: Linear Kinematics and Calculus 
+- [ ] 12. Mechanics 2: Linear and Rotational Dynamics 
+- [ ] 13. Curves in 3D 
+- [ ] 14. Afterword 
+
+#### 2. [Game Engine Architecture](https://www.gameenginebook.com//) by Jason Gregory
+
+**Start Date:** 2025-06-28</br>
+**Status:** Ongoing</br>
+**Repo  :** [The repository for the game engine I plan to create using knowledge that I learnt from this book](https://github.com/erkamuzuncayir/primordial/)
+
+##### Chapters
+
+- [ ] 1. Introduction
+- [ ] 2. Tools of the Trade
+- [ ] 3. Fundamentals of Software Engineering for Games
+- [ ] 4. Parallelism and Concurrent Programming
+- [ ] 5. 3D Math for Games
+- [ ] 6. Engine Support Systems
+- [ ] 7. Resources and the File System
+- [ ] 8. The Game Loop and Real-Time Simulation
+- [ ] 9. Human Interface Devices (HID)
+- [ ] 10. Tools for Debugging and Development
+- [ ] 11. The Rendering Engine
+- [ ] 12. Animation Systems
+- [ ] 13. Collision and Rigid Body Dynamics
+- [ ] 14. Audio
+- [ ] 15. Introduction to Gameplay Systems
+- [ ] 16. Runtime Gameplay Foundation Systems
+- [ ] 17. You Mean There’s More?
+
+#### 3. [Computer Systems: A Programmer's Perspective, Third Edition](https://csapp.cs.cmu.edu/) by Randal E. Bryant and David R. O'Hallaron.
+
+**Status:** *Slowly* ongoing</br>
 **Repo  :** [My Solutions to the Computer Systems: A Programmer's Perspective, Third Edition](https://github.com/erkamuzuncayir/computer-systems-a-programmers-perspective)
 
 ##### Chapters
