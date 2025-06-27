@@ -76,41 +76,32 @@ This is a game built on the Unity game engine that I know, using an entity compo
 
 ---
 
-#### 2. [C++ Primer, 5th Edition](https://cpp-primer.pages.dev/) by Stanley B. Lippman.
-
-**Start Date:** 2025-04-02</br>
-**Status:** Ongoing</br>
-**Repo:** [My Solutions to the C++ Primer, 5th Edition](https://github.com/erkamuzuncayir/cpp-primer)
-
-##### Chapters
-
-- [x] 1. Getting Started
-- [x] 2. Variables and Basic Types
-- [x] 3. Strings, Vectors, and Arrays
-- [x] 4. Expressions
-- [x] 5. Statements
-- [x] 6. Functions
-- [x] 7. Classes
-- [x] 8. The IO Library
-- [x] 9. Sequential Containers
-- [x] 10. Generic Algorithms
-- [x] 11. Associative Containers
-- [x] 12. Dynamic Memory
-- [x] 13. Copy Control
-- [x] 14. Overloaded Operations and Conversions
-- [x] 15. Object-Oriented Programming
-- [x] 16. Templates and Generic Programming
-- [x] 17. Specialized Library Facilities
-- [x] 18. Tools for Large Programs
-- [ ] 19. Specialized Tools and Techniques
-
----
-
 ## ✔️ Done
 
 ### 📚 Learning Resources
 
 > Descending order
+
+#### 3. [C++ Primer, 5th Edition](https://cpp-primer.pages.dev/) by Stanley B. Lippman.
+
+**Start Date:** 2025-04-02</br>
+**End Date:** 2025-06-27</br>
+**Completion Time:** ~160 Hours</br>
+**Status:** Done</br>
+**Repo:** [My Solutions to the C++ Primer, 5th Edition](https://github.com/erkamuzuncayir/cpp-primer)
+
+##### My Takeaways from C Programming: A Modern Approach in a Nutshell
+
+Surprisingly, this is the second book I study to learn C++. I first tried Bjarne Stroustrup's *Programming: Principles and Practice Using C++* because after all he is the creator of C++. But when I started reading it, I realized that this book was not designed to teach me C++, but to teach me the basics of programming without going too deep into C++. 
+So I put that book down and started this book, which is the other most recommended book for learning C++. I usually look at what the authors have done before I read a book, and when I saw that Stanley B. Lippmann is one of the developers of the *Gamebyro Game Engine*, I was even more eager to study this book.
+
+All in all, another excellent book. With detailed explanations, exercises and a defined terms section (this is one of the parts that really helps you understand what something is in terms of definition), it covers all the basic details of C++ and the author covers everything he thinks is important.
+
+I'm glad that I picked up this book instead of continuing with *Programming: Principles and Practice Using C++*. I wholeheartedly recommend this book to anyone who wants to learn the C++ programming language.
+
+Finally, I should mention here that K. N. King's *C Programming: A Modern Approach*, as a textbook, teaches better than this book. However, I'm not sure how much of this is the work of the authors and how much is the difference made by the programming languages taught.  I have to admit that in the end I liked C much more than C++.
+
+---
 
 #### 2. [C Programming: A Modern Approach](http://knking.com/books/c2/) by K. N. King.
 
