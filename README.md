@@ -71,7 +71,7 @@ This is a game built on the Unity game engine that I know, using an entity compo
 
 ##### Chapters
 
-- [ ] 1. Cartesian Coordinate Systems 
+- [x] 1. Cartesian Coordinate Systems 
 - [ ] 2. Vectors 
 - [ ] 3. Multiple Coordinate Spaces 
 - [ ] 4. Introduction to Matrices 
