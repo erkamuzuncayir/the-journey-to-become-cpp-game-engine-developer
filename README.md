@@ -74,8 +74,8 @@ This is a game built on the Unity game engine that I know, using an entity compo
 - [x] 1. Cartesian Coordinate Systems 
 - [x] 2. Vectors 
 - [x] 3. Multiple Coordinate Spaces 
-- [ ] 4. Introduction to Matrices 
-- [ ] 5. Matrices and Linear Transformations 
+- [x] 4. Introduction to Matrices 
+- [x] 5. Matrices and Linear Transformations 
 - [ ] 6. More on Matrices 
 - [ ] 7. Polar Coordinate Systems 
 - [ ] 8. Rotation in Three Dimensions 
