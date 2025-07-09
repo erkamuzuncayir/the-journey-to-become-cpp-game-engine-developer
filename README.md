@@ -78,8 +78,8 @@ This is a game built on the Unity game engine that I know, using an entity compo
 - [x] 5. Matrices and Linear Transformations 
 - [x] 6. More on Matrices 
 - [x] 7. Polar Coordinate Systems 
-- [ ] 8. Rotation in Three Dimensions 
-- [ ] 9. Geometric Primitives 
+- [x] 8. Rotation in Three Dimensions 
+- [x] 9. Geometric Primitives 
 - [ ] 10. Mathematical Topics from 3D Graphics 
 - [ ] 11. Mechanics 1: Linear Kinematics and Calculus 
 - [ ] 12. Mechanics 2: Linear and Rotational Dynamics 
