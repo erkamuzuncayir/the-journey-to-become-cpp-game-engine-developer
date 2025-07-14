@@ -99,11 +99,11 @@ This is a game built on the Unity game engine that I know, using an entity compo
 
 ##### Chapters
 
-- [ ] 1. Setting up DirectX 11 with Visual Studio 2022
-- [ ] 2. Creating a Framework and Window
-- [ ] 3. Initializing DirectX 11
-- [ ] 4. Buffers, Shaders, and HLSL
-- [ ] 5. Texturing
+- [x] 1. Setting up DirectX 11 with Visual Studio 2022
+- [x] 2. Creating a Framework and Window
+- [x] 3. Initializing DirectX 11
+- [x] 4. Buffers, Shaders, and HLSL
+- [x] 5. Texturing
 - [ ] 6. Diffuse Lighting
 - [ ] 7. 3D Model Rendering
 - [ ] 8. Scaling, Rotation, and Translation
