@@ -18,6 +18,11 @@ To document my journey in mastering C/C++ for game and engine development by bui
 
 ## Logs
 
+### 2025-07-14
+
+1. You will see that I have put quite a lot of resources (4 at the moment) in learning resources. This is because I've started writing the basics of the game engine. Because of this, I'm constantly reading and implementing from different sources, so the order in which the resources are listed doesn't indicate the order in which they will be completed. In the future I plan to add articles or conferences that I have benefited from.
+2. [See why I paused CS:APP](#why-hold)
+
 ### 2025-06-27
 
 1. I removed the start date attribute of *Computer Systems: A Programmer's Perspective* and set it to 3rd priority from learning resources, because it doesn't make sense right now to try to read this book binge studying. I need to develop projects to make what is explained in the book more meaningful for me. On the other hand, I don't want to put the book on hold, so I think I will continue little by little as I have time from other learning resources and projects I have developed.
@@ -41,7 +46,7 @@ To document my journey in mastering C/C++ for game and engine development by bui
 
 ### 📚 Learning Resources
 
-- [ ] [Real-Time 3D Rendering with DirectX® and HLSL](https://www.oreilly.com/library/view/real-time-3d-rendering/9780133570120/)
+- [ ] [Game Coding Complete](https://www.mcshaffry.com/GameCode/)
 
 ---
 
@@ -67,7 +72,7 @@ This is a game built on the Unity game engine that I know, using an entity compo
 
 **Start Date:** 2025-06-27</br>
 **Status:** Ongoing</br>
-**Repo  :** [The repository for the game engine I plan to create using this math library](https://github.com/erkamuzuncayir/primordial/)
+**Repo  :** This is a private repo at the moment.
 
 ##### Chapters
 
@@ -86,11 +91,112 @@ This is a game built on the Unity game engine that I know, using an entity compo
 - [ ] 13. Curves in 3D 
 - [ ] 14. Afterword 
 
-#### 2. [Game Engine Architecture](https://www.gameenginebook.com//) by Jason Gregory
+#### 2. [DirectX 11 Tutorials from RasterTek](https://www.rastertek.com/tutdx11win10.html) by RasterTek
 
-**Start Date:** 2025-06-28</br>
+**Start Date:** 2025-07-11</br>
 **Status:** Ongoing</br>
-**Repo  :** [The repository for the game engine I plan to create using knowledge that I learnt from this book](https://github.com/erkamuzuncayir/primordial/)
+**Repo  :** This is a private repo at the moment.
+
+##### Chapters
+
+- [ ] 1. Setting up DirectX 11 with Visual Studio 2022
+- [ ] 2. Creating a Framework and Window
+- [ ] 3. Initializing DirectX 11
+- [ ] 4. Buffers, Shaders, and HLSL
+- [ ] 5. Texturing
+- [ ] 6. Diffuse Lighting
+- [ ] 7. 3D Model Rendering
+- [ ] 8. Scaling, Rotation, and Translation
+- [ ] 9. Ambient Lighting
+- [ ] 10. Specular Lighting
+- [ ] 11. Multiple Point Lights
+- [ ] 12. 2D Rendering
+- [ ] 13. Sprites and Timers
+- [ ] 14. Font Engine
+- [ ] 15. FPS Counters
+- [ ] 16. Direct Input
+- [ ] 17. Multitexturing
+- [ ] 18. Light Maps
+- [ ] 19. Alpha Mapping
+- [ ] 20. Normal Mapping
+- [ ] 21. Specular Mapping
+- [ ] 22. Managing Multiple Shaders
+- [ ] 23. Frustum Culling
+- [ ] 24. Loading Maya Models
+- [ ] 25. Render to Texture
+- [ ] 26. Fog
+- [ ] 27. Clipping Planes
+- [ ] 28. Texture Translation
+- [ ] 29. Transparency
+- [ ] 30. Reflection
+- [ ] 31. Water
+- [ ] 32. Glass and Ice
+- [ ] 33. Fire
+- [ ] 34. Billboarding
+- [ ] 35. Depth Buffer
+- [ ] 36. Blur
+- [ ] 37. Screen Fades
+- [ ] 38. Particle Systems
+- [ ] 39. Projective Texturing
+- [ ] 40. Projected Light Maps
+- [ ] 41. Shadow Mapping
+- [ ] 42. Multiple Light Shadow Mapping
+- [ ] 43. Directional Shadow Maps
+- [ ] 44. Soft Shadows
+- [ ] 45. Shadow Mapping and Transparency
+- [ ] 46. Glow
+- [ ] 47. Picking
+- [ ] 48. Instancing
+- [ ] 49. Hardware Tessellation
+- [ ] 50. Deferred Shading
+- [ ] 51. Screen Space Ambient Occlusion
+- [ ] 52. Physically Based Rendering
+- [ ] 53. Heat
+- [ ] 54. Parallax Scrolling
+- [ ] 55. Direct Sound
+- [ ] 56. 3D Sound
+- [ ] 57. XAudio2
+- [ ] 58. X3DAudio
+- [ ] 59. Animated Particles
+- [ ] 60. XInput
+
+#### 3. [Introduction to 3D Game Programming with Direct3D 11.0](https://d3dcoder.net/d3d11.htm) by Frank D. Luna
+
+**Start Date:** 2025-07-14</br>
+**Status:** Ongoing</br>
+**Repo  :** This is a private repo at the moment.
+
+- [ ] 1. Vector Algebra
+- [ ] 2. Matrix Algebra
+- [ ] 3. Transformations
+- [ ] 4. Direct3D Initialization
+- [ ] 5. The Rendering Pipeline
+- [ ] 6. Drawing in Direct3D
+- [ ] 7. Lighting
+- [ ] 8. Texturing
+- [ ] 9. Blending
+- [ ] 10. Stenciling
+- [ ] 11. The Geometry Shader
+- [ ] 12. The Compute Shader
+- [ ] 13. The Tessellation Stages
+- [ ] 14. Building a First Person Camera ,
+- [ ] 15. Instancing and Frustum Culling
+- [ ] 16. Picking
+- [ ] 17. Cube Mapping
+- [ ] 18. Normal Mapping and Displacement Mapping …..
+- [ ] 19. Terrain Rendering
+- [ ] 20. Particle Systems and Stream-Out
+- [ ] 21. Shadow Mapping
+- [ ] 22. Ambient Occlusion
+- [ ] 23. Meshes
+- [ ] 24. Quaternions
+- [ ] 25. Character Animation
+
+#### 4. [Game Engine Architecture](https://www.gameenginebook.com//) by Jason Gregory
+
+**Start Date:** 2025-07-14</br>
+**Status:** Ongoing</br>
+**Repo  :** This is a private repo at the moment.
 
 ##### Chapters
 
@@ -111,26 +217,6 @@ This is a game built on the Unity game engine that I know, using an entity compo
 - [ ] 15. Introduction to Gameplay Systems
 - [ ] 16. Runtime Gameplay Foundation Systems
 - [ ] 17. You Mean There’s More?
-
-#### 3. [Computer Systems: A Programmer's Perspective, Third Edition](https://csapp.cs.cmu.edu/) by Randal E. Bryant and David R. O'Hallaron.
-
-**Status:** *Slowly* ongoing</br>
-**Repo  :** [My Solutions to the Computer Systems: A Programmer's Perspective, Third Edition](https://github.com/erkamuzuncayir/computer-systems-a-programmers-perspective)
-
-##### Chapters
-
-- [x] 1. A Tour of Computer Systems
-- [ ] 2. Representing and Manipulating Information
-- [ ] 3. Machine-Level Representation of Programs
-- [ ] 4. Processor Architecture
-- [ ] 5. Optimizing Program Performance
-- [ ] 6. The Memory Hierarchy
-- [ ] 7. Linking
-- [ ] 8. Exceptional Control Flow
-- [ ] 9. Virtual Memory
-- [ ] 10. System-Level I/O
-- [ ] 11. Network Programming
-- [ ] 12. Concurrent Programming
 
 ---
 
@@ -221,7 +307,7 @@ In conclusion, Introduction to Computing Systems is an excellent resource for an
 
 ### 📚 Learning Resources
 
-1. #### [The C Programming Language](https://www.goodreads.com/book/show/515601.The_C_Programming_Language) by Brian W. Kernighan and Dennis M. Ritchie
+#### 1. [The C Programming Language](https://www.goodreads.com/book/show/515601.The_C_Programming_Language) by Brian W. Kernighan and Dennis M. Ritchie
 
 **Start Date:** 2025-01-24</br>
 **Hold Date:** 2025-02-13</br>
@@ -235,6 +321,15 @@ In conclusion, Introduction to Computing Systems is an excellent resource for an
 While studying The C Programming Language by Kernighan and Ritchie, I realized that the book is more of a documentation of C itself rather than a teaching guide for beginners. Although I learned some valuable things, I didn’t feel like my overall familiarity with C improved significantly. Additionally, I found the exercises quite challenging, especially in the last three chapters.
 
 Therefore, I’ve decided not to continue with the remaining chapters and instead start C Programming: A Modern Approach by K. N. King, as I’ve heard it's better suited for learning C in a more comprehensive and beginner-friendly manner. My goal is to complete this book to solidify my understanding of C before moving on to more advanced topics.
+
+2. #### [Computer Systems: A Programmer's Perspective, Third Edition](https://csapp.cs.cmu.edu/) by Randal E. Bryant and David R. O'Hallaron.
+
+**Status:** Hold</br>
+**Repo  :** [My Solutions to the Computer Systems: A Programmer's Perspective, Third Edition](https://github.com/erkamuzuncayir/computer-systems-a-programmers-perspective)
+
+##### Why hold?
+
+As far as I can see from the questions I have read and solved so far from this book, it will be useful for me to read this book by really understanding it and solving all the questions. But this may take a little longer. On the other hand, I think it would be more suitable for my purpose to put something practical into practice right now. For this reason, I put the book on hold.
 
 ---
 
