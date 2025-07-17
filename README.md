@@ -108,11 +108,11 @@ This is a game built on the Unity game engine that I know, using an entity compo
 - [x] 7. 3D Model Rendering
 - [x] 8. Scaling, Rotation, and Translation
 - [x] 9. Ambient Lighting
-- [ ] 10. Specular Lighting
-- [ ] 11. Multiple Point Lights
-- [ ] 12. 2D Rendering
-- [ ] 13. Sprites and Timers
-- [ ] 14. Font Engine
+- [x] 10. Specular Lighting
+- [x] 11. Multiple Point Lights
+- [x] 12. 2D Rendering
+- [x] 13. Sprites and Timers
+- [x] 14. Font Engine
 - [ ] 15. FPS Counters
 - [ ] 16. Direct Input
 - [ ] 17. Multitexturing
