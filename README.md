@@ -104,10 +104,10 @@ This is a game built on the Unity game engine that I know, using an entity compo
 - [x] 3. Initializing DirectX 11
 - [x] 4. Buffers, Shaders, and HLSL
 - [x] 5. Texturing
-- [ ] 6. Diffuse Lighting
-- [ ] 7. 3D Model Rendering
-- [ ] 8. Scaling, Rotation, and Translation
-- [ ] 9. Ambient Lighting
+- [x] 6. Diffuse Lighting
+- [x] 7. 3D Model Rendering
+- [x] 8. Scaling, Rotation, and Translation
+- [x] 9. Ambient Lighting
 - [ ] 10. Specular Lighting
 - [ ] 11. Multiple Point Lights
 - [ ] 12. 2D Rendering
