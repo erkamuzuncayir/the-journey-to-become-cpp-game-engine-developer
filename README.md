@@ -113,15 +113,15 @@ This is a game built on the Unity game engine that I know, using an entity compo
 - [x] 12. 2D Rendering
 - [x] 13. Sprites and Timers
 - [x] 14. Font Engine
-- [ ] 15. FPS Counters
-- [ ] 16. Direct Input
-- [ ] 17. Multitexturing
-- [ ] 18. Light Maps
-- [ ] 19. Alpha Mapping
-- [ ] 20. Normal Mapping
-- [ ] 21. Specular Mapping
-- [ ] 22. Managing Multiple Shaders
-- [ ] 23. Frustum Culling
+- [x] 15. FPS Counters
+- [x] 16. Direct Input
+- [x] 17. Multitexturing
+- [x] 18. Light Maps
+- [x] 19. Alpha Mapping
+- [x] 20. Normal Mapping
+- [x] 21. Specular Mapping
+- [x] 22. Managing Multiple Shaders
+- [x] 23. Frustum Culling
 - [ ] 24. Loading Maya Models
 - [ ] 25. Render to Texture
 - [ ] 26. Fog
