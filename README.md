@@ -122,10 +122,10 @@ This is a game built on the Unity game engine that I know, using an entity compo
 - [x] 21. Specular Mapping
 - [x] 22. Managing Multiple Shaders
 - [x] 23. Frustum Culling
-- [ ] 24. Loading Maya Models
-- [ ] 25. Render to Texture
-- [ ] 26. Fog
-- [ ] 27. Clipping Planes
+- [x] 24. Loading Maya Models
+- [x] 25. Render to Texture
+- [x] 26. Fog
+- [x] 27. Clipping Planes
 - [ ] 28. Texture Translation
 - [ ] 29. Transparency
 - [ ] 30. Reflection
