@@ -126,11 +126,11 @@ This is a game built on the Unity game engine that I know, using an entity compo
 - [x] 25. Render to Texture
 - [x] 26. Fog
 - [x] 27. Clipping Planes
-- [ ] 28. Texture Translation
-- [ ] 29. Transparency
-- [ ] 30. Reflection
-- [ ] 31. Water
-- [ ] 32. Glass and Ice
+- [x] 28. Texture Translation
+- [x] 29. Transparency
+- [x] 30. Reflection
+- [x] 31. Water
+- [x] 32. Glass and Ice
 - [ ] 33. Fire
 - [ ] 34. Billboarding
 - [ ] 35. Depth Buffer
